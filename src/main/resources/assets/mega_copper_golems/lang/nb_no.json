@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Spawn-egg for mega-kobbergolem",
+  "entity.mega_copper_golems.mega_copper_golem": "Mega-kobbergolem",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Gjør den til en vokter som er billigere og mye mer oransje enn en jerngolem.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Gjør den til en vokter som er billigere og mye mer oransje enn en jerngolem.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "Kobberkiste",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Kobbervokter",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "Påkall en Mega Kobbergolem, billigere og mye mer oransje enn en Jerngolem!"
+}

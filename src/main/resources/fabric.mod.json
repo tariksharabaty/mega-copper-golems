@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "mega_copper_golems",
+  "version": "${version}",
+  "name": "Mega Copper Golems",
+  "description": "Turn it into a guardian that's cheaper and way more orange than an Iron Golem.",
+  "authors": [
+    "Tarek Sharabaty",
+    "Oidioom"
+  ],
+  "contact": {},
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.instagram.lordotarik": "https://www.instagram.com/tariksby",
+        "modmenu.instagram.oidioom": "https://www.instagram.com/oidioom"
+      }
+    }
+  },
+  "license": "MIT",
+  "icon": "assets/mega_copper_golems/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.oidioomstudio.megacoppergolems.MegaCopperGolemsMod"
+    ],
+    "client": [
+      "com.oidioomstudio.megacoppergolems.client.MegaCopperGolemsClientMod"
+    ],
+    "modmenu": [
+      "com.oidioomstudio.megacoppergolems.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "mega_copper_golems.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*",
+    "olib": ">=0.0.1"
+  }
+}

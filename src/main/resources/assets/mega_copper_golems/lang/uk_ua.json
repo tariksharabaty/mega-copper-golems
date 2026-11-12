@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Яйце призову мега мідного голема",
+  "entity.mega_copper_golems.mega_copper_golem": "Мега мідний голем",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Перетворіть його на захисника — дешевшого та набагато помаранчевішого за Залізного голема.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Перетворіть його на захисника — дешевшого та набагато помаранчевішого за Залізного голема.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "Мідна скриня",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Мідний вартовий",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "Прикличте Мега-мідного голема, дешевшого і набагато помаранчевішого за залізного голема!"
+}

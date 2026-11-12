@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "메가 구리 골렘 생성 알",
+  "entity.mega_copper_golems.mega_copper_golem": "메가 구리 골렘",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "철 골렘보다 저렴하고 훨씬 더 주황빛을 띠는 든든한 수호자.",
+  "modmenu.summaryTranslation.mega_copper_golems": "철 골렘보다 저렴하고 훨씬 더 주황빛을 띠는 든든한 수호자.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "구리 상자",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "구리 수호자",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "철 골렘보다 저렴하고 훨씬 주황색인 메가 구리 골렘을 소환하세요!"
+}

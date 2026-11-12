@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Huevo generador de mega gólem de cobre",
+  "entity.mega_copper_golems.mega_copper_golem": "Mega gólem de cobre",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Conviértelo en un guardián más barato y mucho más naranja que un Golem de Hierro.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Conviértelo en un guardián más barato y mucho más naranja que un Golem de Hierro.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "Cofre de cobre",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Guardián de cobre",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "¡Invoca un Mega gólem de cobre, más barato y mucho más naranja que un gólem de hierro!"
+}

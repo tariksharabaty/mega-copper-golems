@@ -1,0 +1,19 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Mega Bakır Golem Çağırma Yumurtası",
+  "entity.mega_copper_golems.mega_copper_golem": "Mega Bakır Golem",
+  "item.mega_copper_golems.copper_chest": "Bakır Sandık",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Bakır Muhafız",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "Demir Golem'den daha ucuz ve çok daha turuncu bir Mega Bakır Golem çağırın!",
+  "mega_copper_golems.config.general": "Genel Ayarlar",
+  "mega_copper_golems.config.attributes": "Golem Nitelikleri",
+  "mega_copper_golems.config.max_health": "Maksimum Can",
+  "mega_copper_golems.config.attack_damage": "Saldırı Hasarı",
+  "mega_copper_golems.config.features": "Özellikler",
+  "mega_copper_golems.config.enable_summon": "Yapı ile Çağırma",
+  "mega_copper_golems.config.enable_chest_loot": "Nadir Bakır Sandık Düşürme",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Bakır Golemler",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Demir Golem'den daha ucuz ve çok daha turuncu bir koruyucuya dönüştürün.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Demir Golem'den daha ucuz ve çok daha turuncu bir koruyucuya dönüştürün.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

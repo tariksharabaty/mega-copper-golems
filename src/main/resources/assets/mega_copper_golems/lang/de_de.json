@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Mega-Kupfergolem-Spawn-Ei",
+  "entity.mega_copper_golems.mega_copper_golem": "Mega-Kupfergolem",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Mache daraus einen Wächter, der günstiger und viel oranger als ein Eisengolem ist.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Mache daraus einen Wächter, der günstiger und viel oranger als ein Eisengolem ist.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "Kupfertruhe",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Kupferwächter",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "Beschwöre einen Mega-Kupfergolem, günstiger und viel oranger als ein Eisengolem!"
+}

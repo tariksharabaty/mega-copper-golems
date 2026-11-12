@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:adventure/summon_iron_golem",
+  "criteria": {
+    "summoned_golem": {
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "mega_copper_golems:mega_copper_golem"
+          }
+        }
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.mega_copper_golems.summon_copper_golem.desc"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:copper_block"
+    },
+    "title": {
+      "translate": "advancement.mega_copper_golems.summon_copper_golem.title"
+    }
+  },
+  "requirements": [
+    [
+      "summoned_golem"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

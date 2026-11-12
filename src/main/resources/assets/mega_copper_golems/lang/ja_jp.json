@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "メガ銅ゴーレムのスポーンエッグ",
+  "entity.mega_copper_golems.mega_copper_golem": "メガ銅ゴーレム",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "アイアンゴーレムよりも安上がりで、はるかにオレンジ色な頼れる守護者。",
+  "modmenu.summaryTranslation.mega_copper_golems": "アイアンゴーレムよりも安上がりで、はるかにオレンジ色な頼れる守護者。",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "銅のチェスト",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "銅の守護者",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "アイアンゴーレムよりも安くて遥かにオレンジ色のメガ銅ゴーレムを召喚しよう！"
+}

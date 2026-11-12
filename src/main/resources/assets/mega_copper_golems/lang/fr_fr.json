@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Œuf d'apparition de méga-golem de cuivre",
+  "entity.mega_copper_golems.mega_copper_golem": "Méga-golem de cuivre",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Transformez-le en un gardien moins cher et bien plus orange qu'un golem de fer.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Transformez-le en un gardien moins cher et bien plus orange qu'un golem de fer.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "Coffre en cuivre",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Gardien de cuivre",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "Invoquez un Méga Golem de cuivre, moins cher et bien plus orange qu'un Golem de fer !"
+}

@@ -1,0 +1,19 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Mega Copper Golem Spawn Egg",
+  "entity.mega_copper_golems.mega_copper_golem": "Mega Copper Golem",
+  "item.mega_copper_golems.copper_chest": "Copper Chest",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Copper Guardian",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "Summon a Mega Copper Golem, cheaper and way more orange than an Iron Golem!",
+  "mega_copper_golems.config.general": "General Settings",
+  "mega_copper_golems.config.attributes": "Golem Attributes",
+  "mega_copper_golems.config.max_health": "Max Health",
+  "mega_copper_golems.config.attack_damage": "Attack Damage",
+  "mega_copper_golems.config.features": "Features",
+  "mega_copper_golems.config.enable_summon": "Multi-block Summoning",
+  "mega_copper_golems.config.enable_chest_loot": "Rare Copper Chest Drop",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Turn it into a guardian that's cheaper and way more orange than an Iron Golem.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Turn it into a guardian that's cheaper and way more orange than an Iron Golem.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

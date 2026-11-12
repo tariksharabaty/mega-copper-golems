@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "Яйцо призыва мега медного голема",
+  "entity.mega_copper_golems.mega_copper_golem": "Мега медный голем",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "Превратите его в защитника — дешевле и намного оранжевее Железного голема.",
+  "modmenu.summaryTranslation.mega_copper_golems": "Превратите его в защитника — дешевле и намного оранжевее Железного голема.",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "Медный сундук",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "Медный страж",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "Призовите Мега-медного голема, более дешёвого и намного более оранжевого, чем железный голем!"
+}

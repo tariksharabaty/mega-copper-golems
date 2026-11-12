@@ -1,0 +1,12 @@
+{
+  "item.mega_copper_golems.mega_copper_golem_spawn_egg": "巨型銅傀儡生怪蛋",
+  "entity.mega_copper_golems.mega_copper_golem": "巨型銅傀儡",
+  "modmenu.nameTranslation.mega_copper_golems": "Mega Copper Golems",
+  "modmenu.descriptionTranslation.mega_copper_golems": "把它變成一個比鐵傀儡更廉價、而且更橙色的強力守護者。",
+  "modmenu.summaryTranslation.mega_copper_golems": "把它變成一個比鐵傀儡更廉價、而且更橙色的強力守護者。",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram",
+  "item.mega_copper_golems.copper_chest": "銅箱",
+  "advancement.mega_copper_golems.summon_copper_golem.title": "銅之守衛",
+  "advancement.mega_copper_golems.summon_copper_golem.desc": "召喚一個比鐵魔像更便宜、更橘的巨型銅魔像！"
+}
